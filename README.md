@@ -1,1 +1,1 @@
-# secondchans-mobile-applications
+# secondchance-mobile-applications
